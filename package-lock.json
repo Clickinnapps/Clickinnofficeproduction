@@ -1,0 +1,15 @@
+{
+  "name": "clickinn-office",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "clickinn-office",
+      "version": "1.0.0",
+      "engines": {
+        "node": ">=22"
+      }
+    }
+  }
+}
